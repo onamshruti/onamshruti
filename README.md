@@ -12,11 +12,11 @@
   <!-- Social Media Icons -->
   <p>
     <a href="https://github.com/onamshruti" target="_blank">
-      <img src="https://cdn.simpleicons.org/github/333" height="30" alt="GitHub"/>
+      <img src="https://cdn.simpleicons.org/github/333" height="32" width="32" alt="GitHub"/>
     </a>
     &nbsp;
     <a href="mailto:shrutionamshruti@gmail.com" target="_blank">
-      <img src="https://cdn.simpleicons.org/gmail/EA4335" height="30" alt="Gmail"/>
+      <img src="https://cdn.simpleicons.org/gmail/EA4335" height="32" width="32" alt="Gmail"/>
     </a>
   </p>
 </div>
